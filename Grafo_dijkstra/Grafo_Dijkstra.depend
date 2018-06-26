@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1528251193 source:d:\dropbox\dropbox\8ª semestre\análise de algoritmo\análise de algoritmos 2018\laboratório - analise de algoritmo\grafo_dijkstra\dijkstra.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<iostream>
+	<list>
+	<queue>
+
